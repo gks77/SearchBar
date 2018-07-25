@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">SearchBar</string>
+    <string name="search_hint">Search here</string>
+
+    <string-array name="array_country">
+        <item>India</item>
+        <item>France</item>
+        <item>Argentina</item>
+        <item>Australia</item>
+        <item>Brazil</item>
+        <item>Romania</item>
+        <item>Uruguay</item>
+        <item>Belgium</item>
+        <item>Croatia</item>
+        <item>Protugal</item>
+        <item>Spain</item>
+        <item>Bangladesh</item>
+        <item>Acaf</item>
+        <item>gfdgsfgs</item>
+        <item>fhgdfgdf</item>
+        <item>regrgs</item>
+        <item>hsfhds</item>
+        <item>fgdhfs</item>
+        <item>uojffgns</item>
+        <item>fdgdfg</item>
+        <item>fdbdfbd</item>
+        <item>fdhdf</item>
+
+    </string-array>
+
+</resources>
